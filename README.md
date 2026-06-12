@@ -5,7 +5,7 @@ and do not alter the colors, proportions or logo shapes.
 
 ## Icons
 
-Full-resolution masters live at the root; ready-made sizes live in a folder per size:
+Ready-made sizes live in a folder per size:
 
 - `16/`, `32/`, `48/`, `64/`, `128/`, `256/`, `512/`, `1024/`
 
@@ -21,4 +21,4 @@ Each size folder contains every icon at that pixel size:
 - `backgrounds/background-mountain.jpg`
 - `backgrounds/background-metallic.jpg`
 
-More assets are added as they are exported.
+More assets coming soon.
