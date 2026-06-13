@@ -1,20 +1,40 @@
 # TexHub Branding
 
-Brand assets for TexHub — logo marks, app icons and backgrounds. Use only these assets,
-and do not alter the colors, proportions or logo shapes.
+Brand assets for TexHub. Use only these assets and do not alter the colors,
+proportions or logo shapes.
 
-## Icons
+## Colors
 
-Ready-made sizes live in a folder per size:
+- Ink `#111418`
+- Orange `#FF6200`
+- White `#FFFFFF`
 
-- `16/`, `32/`, `48/`, `64/`, `128/`, `256/`, `512/`, `1024/`
+## Logo mark (the `t.` symbol)
 
-Each size folder contains every icon at that pixel size:
+- `logo-mark/logo-mark-dark.png` — for light backgrounds
+- `logo-mark/logo-mark-white.png` — for dark backgrounds
 
-- `app-icon-black-square.png` — app icon on a black square
-- `app-icon-black-rounded.png` — app icon on a black squircle
-- `app-icon-black-circle.png` — app icon on a black circle
-- `icon-3d-emboss-black.png` — 3D embossed icon, black
+## Wordmark (`texhub.`)
+
+- `wordmark/wordmark-dark.png` — for light backgrounds
+- `wordmark/wordmark-white.png` — for dark backgrounds
+
+## Lockup (wordmark on a panel)
+
+- `lockup/lockup-dark.png`, `lockup/lockup-dark-rounded.png` — white wordmark on a dark panel
+- `lockup/lockup-light.png`, `lockup/lockup-light-rounded.png` — dark wordmark on a light panel
+
+## App icons
+
+Square icons in a folder per size: `16/`, `32/`, `48/`, `64/`, `128/`, `256/`, `512/`,
+`1024/`. Each size contains:
+
+- `app-icon-dark-rounded.png`, `app-icon-dark-square.png` — light mark on a dark tile
+- `app-icon-light-rounded.png`, `app-icon-light-square.png` — dark mark on a light tile
+
+## Social
+
+- `social/banner-square-dark.png` — square banner for avatars and social cards
 
 ## Backgrounds
 
